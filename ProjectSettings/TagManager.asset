@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - AlertLettersPanel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Wall
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3435177801
+    locked: 0
+  - name: Wall
+    uniqueID: 2064070721
+    locked: 0
+  - name: Wall-Side
+    uniqueID: 745602585
+    locked: 0
+  - name: Tiles
+    uniqueID: 1258922445
+    locked: 0
+  - name: Carpet
+    uniqueID: 660054977
+    locked: 0
+  - name: Windows
+    uniqueID: 1128373361
+    locked: 0
+  - name: Tools
+    uniqueID: 1207161675
+    locked: 0
+  - name: stairs
+    uniqueID: 710714609
+    locked: 0
+  - name: roofs
+    uniqueID: 1578638905
+    locked: 0
+  - name: Objects
+    uniqueID: 1106550005
+    locked: 0
+  - name: ObjectTwo
+    uniqueID: 1659828351
+    locked: 0
+  - name: Door
+    uniqueID: 324241121
+    locked: 0
+  - name: Player
+    uniqueID: 1863001497
+    locked: 0
+  m_RenderingLayers:
+  - Default

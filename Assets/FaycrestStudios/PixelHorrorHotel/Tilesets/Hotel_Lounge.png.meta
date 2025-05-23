@@ -1,0 +1,2238 @@
+fileFormatVersion: 2
+guid: 189901c9a8ba7624892455702d6bc71b
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304321
+  packageName: Pixel Horror Hotel Kit
+  packageVersion: 1.0
+  assetPath: Assets/FaycrestStudios/PixelHorrorHotel/Tilesets/Hotel_Lounge.png
+  uploadId: 714236
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hotel_Lounge_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf578c4c15ee5b41a4d848a38440e98
+      internalID: 269232612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_8
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 672
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8b5247c1f8e0c40a802b21b1cc6798
+      internalID: 2027814706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_10
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 672
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17461a720fe97d948aab83aa09d247ab
+      internalID: -69407395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_12
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4d9d0b8f127e24abfdc5715e886779
+      internalID: 2120709967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3516819a3068a5a4b8dcd042ac0d6620
+      internalID: 1146031785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 144
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bb0e415e328d54c85fa8a09320ee2b
+      internalID: 1284644173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_18
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 672
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3076dc71849d1df4384d94ddbc1522c1
+      internalID: -853588885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 672
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91f82f8ddf47f24aadf58b4187aec4c
+      internalID: 1106397360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_20
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8bd943beab86242b9e7c0bf6bd850e
+      internalID: -1149141585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_27
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 672
+        width: 96
+        height: 48
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c45269538c4bcc44a0cf3100cee861f
+      internalID: 1303558509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 144
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642df1b848a189d4aaf68265990ba9f0
+      internalID: 1545699985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 576
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f92280980c313e4cb71a06dfac70a35
+      internalID: -496354827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1447b06a5c06945ae7b9902685d8e3
+      internalID: 168259884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083fa754e3479e444be646b8aab4f17d
+      internalID: 375383872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_34
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf4ae24e742c5c429893dfeebb94a5e
+      internalID: -1672365063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_41
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 576
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ed0a351b5a1834cb2075a201086e46
+      internalID: -601971570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_42
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 576
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271d6a80cbc79094784cb2a4f6159ae3
+      internalID: -951216182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 576
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee63aae81f7ab145ba753ccabc85531
+      internalID: 1314621493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_48
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f097f200cfd1b2c4db5791079234a8a9
+      internalID: 763936543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_49
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 144
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d868d1290efd83240b83012c828f7746
+      internalID: 983972457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_52
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 576
+        width: 144
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4767c16e5fdb2748812e6a8e8afa35c
+      internalID: 963373683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc58c21cbcb962d40aa23e2cf75907fa
+      internalID: -1614054761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_62
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 528
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de7f3ee3a663dc479fd8c10b3b5b01f
+      internalID: 894334913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_64
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 528
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635496cedd58b134ba779330d4b6ec46
+      internalID: 359922289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_67
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67673c3befa236d4e85edc7429d42133
+      internalID: 387296932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5ccd3182fac6a4797a255993b82add
+      internalID: 1441813478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_69
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519e3846f2e56384f86dd014fe4e556b
+      internalID: -37420422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_70
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0830e602f18667438609239ba6b2ae4
+      internalID: 596543161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_71
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3e7beed726e22479f7c0330717c6f4
+      internalID: 1887780166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_72
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782f707da1f56b642a01c0d462c49104
+      internalID: -635594747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 144
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af4cd445227100498450d21dcfc15a8
+      internalID: 2054758164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_79
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 480
+        width: 50
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b27882ac795e34ca7b4e8bb4bce19a
+      internalID: 2006760847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_81
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716c1995c286b6f4a9b8bde8a5a2e132
+      internalID: -1260040681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_82
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a8f8f58399dd942a0b49e5617be802
+      internalID: -1599882167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_83
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607b465f719b46b438d1395e04bbb0b9
+      internalID: -87572850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_84
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7718e505d48d65544bfe1bf879d99b36
+      internalID: -807200027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_85
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec90bf5a49519d442b2b6feb90f521f6
+      internalID: 930923553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_86
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01eea648f1106a49b5436a48b6973a2
+      internalID: -471561669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc5e9b814615b8409ad7c090593a953
+      internalID: 712220092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_89
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08165d8844e5a654095836a995057130
+      internalID: 1136125005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_90
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0e2a42b7c246c47a2c0fb70d614246
+      internalID: 1877946601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_91
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f20ce999afadc4594e4531f0099735
+      internalID: 998462148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_96
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60f6b8e5c6dba7458d717b81b0eea7b
+      internalID: 1864667729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_97
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c74c67bb1cec146b8e49f85e8a837f
+      internalID: 1191344597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014e0675c2c5ab242893a6bdfca76064
+      internalID: 1361199417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_108
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 144
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce2eebbac5829a489940641f0025960
+      internalID: 639726300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 385
+        width: 96
+        height: 48
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6880ffe65f00bf14f99b0fb21b665942
+      internalID: -1588590383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bda976fd70c8fa4b8b1d4d6d464c80d
+      internalID: -1425251251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_119
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2646884ace5dc25458efd4fec58d639b
+      internalID: 2123380227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_123
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e367946cd7f5a469e05eb6843f4591
+      internalID: 640214085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f99e5c94fbf7e841ae6c0fef98e9b29
+      internalID: 1005919515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db31d639032d50e4882ef3a060bed2ba
+      internalID: 1271168255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_131
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 317
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ae569c7863c914b9054b751e0a0740
+      internalID: -550639559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137009936c6292146a47f50e1be65666
+      internalID: -1572971212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_134
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ef9fa75aede8c4aa94f9a86fa50c3b
+      internalID: -1808456342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_135
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7779743ed473e454cbf01ff593346cad
+      internalID: 26275635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_136
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b61d9a6e62da9c45a9c2e415a10582b
+      internalID: -1434634971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_137
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75849cf7e0142746b6cba679b982964
+      internalID: 1630756226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_139
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1c490f385ff2144a815adebf10c0b1
+      internalID: 1194803098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_141
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b989877d21f5ac48a3bb56881c10731
+      internalID: 662507421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b3163c182bd844ba839bfc09eec3e2
+      internalID: 1609377769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_151
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af09b2190be972f45a4f45179d0709ef
+      internalID: -1769238294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_152
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd205ac416847c4e97712b7d55cb9c1
+      internalID: -879188736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_153
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb959aa12368eec4bb0557fd0e72347e
+      internalID: -1174089959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_162
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427b5ff0c2f80254fb74647b07104182
+      internalID: -123350261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_163
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 240
+        width: 96
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abe249c68903394aa37d8f263a120e8
+      internalID: 1138895351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 240
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96429157c4076754dabc2093dc4b89e2
+      internalID: 1733042949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_176
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 192
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e95fcffb808e044d81321acfc9095ae
+      internalID: 866565813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_178
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 144
+        width: 144
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624a7252dc0489b4db86fe2dd22bf487
+      internalID: 1893189023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_186
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 96
+        height: 144
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -41}
+        - {x: -32, y: -10}
+        - {x: 30, y: -9}
+        - {x: 30, y: -41}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207b6016bfd43e44eb05298ba09321dd
+      internalID: -1109291331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_188
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 96
+        height: 144
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -33, y: -40}
+        - {x: -33, y: -10}
+        - {x: 29, y: -10}
+        - {x: 29, y: -40}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbffe945de9ac86449371eec29af1a2a
+      internalID: -1863217481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_190
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 144
+        width: 96
+        height: 144
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -34, y: -39}
+        - {x: -34, y: -9}
+        - {x: 28, y: -9}
+        - {x: 28, y: -39}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5d9502e1f5a6246855819e30037775
+      internalID: 1765628704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed79c2bcd4172a41b4c876db809bc67
+      internalID: 938468696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_207
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd9b0ecaec361c45901cba966e08e1f
+      internalID: -325973843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_208
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb3dbb424a0bae43b6ddda0959dfba9
+      internalID: 449626877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_209
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971757798b3841c42a4e1cb5c6ddf9f6
+      internalID: 641797491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_217
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1670ef8211f76641812d2ea7b5e2741
+      internalID: 695282682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_229
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e0d53222150ca4587ac1948e22d3a4
+      internalID: -904276423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_230
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2a1760644efd64a9902308b595d489
+      internalID: 890081311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_231
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d27b7bd44a88684ea368ffd2ec1b201
+      internalID: 1793730234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_233
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4dbd38617499948a30a9b607e7b062
+      internalID: -1833499449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_234
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5186d598c979f4aae087e71146da0a
+      internalID: 1007051286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Lounge_0
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa237cc5af9b3343a2a1124e5b96464
+      internalID: 1805085782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hotel_Lounge_0: 1805085782
+      Hotel_Lounge_1: -1842902448
+      Hotel_Lounge_10: -69407395
+      Hotel_Lounge_100: -309330036
+      Hotel_Lounge_101: 976317468
+      Hotel_Lounge_102: -1747093210
+      Hotel_Lounge_103: -1807625360
+      Hotel_Lounge_104: 377512226
+      Hotel_Lounge_105: 1361199417
+      Hotel_Lounge_106: -1034117242
+      Hotel_Lounge_107: -1941345034
+      Hotel_Lounge_108: 639726300
+      Hotel_Lounge_109: -1892526221
+      Hotel_Lounge_11: -2109840548
+      Hotel_Lounge_110: -1460937322
+      Hotel_Lounge_111: -1588590383
+      Hotel_Lounge_112: 2065830554
+      Hotel_Lounge_113: -763285219
+      Hotel_Lounge_114: 120150408
+      Hotel_Lounge_115: 649257341
+      Hotel_Lounge_116: 1474942238
+      Hotel_Lounge_117: -1425251251
+      Hotel_Lounge_118: -30912356
+      Hotel_Lounge_119: 2123380227
+      Hotel_Lounge_12: 2120709967
+      Hotel_Lounge_120: -1831240913
+      Hotel_Lounge_121: -1753294417
+      Hotel_Lounge_122: -1986185161
+      Hotel_Lounge_123: 640214085
+      Hotel_Lounge_124: 741554757
+      Hotel_Lounge_125: -1483541802
+      Hotel_Lounge_126: -859374798
+      Hotel_Lounge_127: 1005919515
+      Hotel_Lounge_128: -737674931
+      Hotel_Lounge_129: 1271168255
+      Hotel_Lounge_13: 1146031785
+      Hotel_Lounge_130: -1412040829
+      Hotel_Lounge_131: -550639559
+      Hotel_Lounge_132: 2126945015
+      Hotel_Lounge_133: -1572971212
+      Hotel_Lounge_134: -1808456342
+      Hotel_Lounge_135: 26275635
+      Hotel_Lounge_136: -1434634971
+      Hotel_Lounge_137: 1630756226
+      Hotel_Lounge_138: -246163115
+      Hotel_Lounge_139: 1194803098
+      Hotel_Lounge_14: -1944534459
+      Hotel_Lounge_140: -77825513
+      Hotel_Lounge_141: 662507421
+      Hotel_Lounge_142: -1537037966
+      Hotel_Lounge_143: -1253262732
+      Hotel_Lounge_144: 279443771
+      Hotel_Lounge_145: -314511352
+      Hotel_Lounge_146: 1287375729
+      Hotel_Lounge_147: -779013731
+      Hotel_Lounge_148: 1699587383
+      Hotel_Lounge_149: 1609377769
+      Hotel_Lounge_15: 1284644173
+      Hotel_Lounge_150: -960049506
+      Hotel_Lounge_151: -1769238294
+      Hotel_Lounge_152: -879188736
+      Hotel_Lounge_153: -1174089959
+      Hotel_Lounge_154: -683731489
+      Hotel_Lounge_155: 1648160439
+      Hotel_Lounge_156: 1535225774
+      Hotel_Lounge_157: 3374658
+      Hotel_Lounge_158: -300742822
+      Hotel_Lounge_159: 1225568275
+      Hotel_Lounge_16: 116159882
+      Hotel_Lounge_160: 18085473
+      Hotel_Lounge_161: -607265276
+      Hotel_Lounge_162: -123350261
+      Hotel_Lounge_163: 1138895351
+      Hotel_Lounge_164: 1687387244
+      Hotel_Lounge_165: 1733042949
+      Hotel_Lounge_166: 667854538
+      Hotel_Lounge_167: 631086921
+      Hotel_Lounge_168: 1443177740
+      Hotel_Lounge_169: 2086610202
+      Hotel_Lounge_17: -800045654
+      Hotel_Lounge_170: 1125780314
+      Hotel_Lounge_171: 1481006318
+      Hotel_Lounge_172: -789475361
+      Hotel_Lounge_173: -1608788120
+      Hotel_Lounge_174: 308829823
+      Hotel_Lounge_175: -804715990
+      Hotel_Lounge_176: 866565813
+      Hotel_Lounge_177: -617721537
+      Hotel_Lounge_178: 1893189023
+      Hotel_Lounge_179: 102999895
+      Hotel_Lounge_18: -853588885
+      Hotel_Lounge_180: 9067962
+      Hotel_Lounge_181: -722329351
+      Hotel_Lounge_182: -1668770092
+      Hotel_Lounge_183: -683624886
+      Hotel_Lounge_184: 980760753
+      Hotel_Lounge_185: -350125457
+      Hotel_Lounge_186: -1109291331
+      Hotel_Lounge_187: 1762435797
+      Hotel_Lounge_188: -1863217481
+      Hotel_Lounge_189: -205071102
+      Hotel_Lounge_19: 1106397360
+      Hotel_Lounge_190: 1765628704
+      Hotel_Lounge_191: -899875578
+      Hotel_Lounge_192: 2017954227
+      Hotel_Lounge_193: -1779453456
+      Hotel_Lounge_194: -2083279608
+      Hotel_Lounge_195: -1373996797
+      Hotel_Lounge_196: 938468696
+      Hotel_Lounge_197: -2040293463
+      Hotel_Lounge_198: 2076183077
+      Hotel_Lounge_199: -1023661903
+      Hotel_Lounge_2: -1417761376
+      Hotel_Lounge_20: -1149141585
+      Hotel_Lounge_200: -53999769
+      Hotel_Lounge_201: -417271981
+      Hotel_Lounge_202: 1156718422
+      Hotel_Lounge_203: -753933049
+      Hotel_Lounge_204: 1690005613
+      Hotel_Lounge_205: -747096693
+      Hotel_Lounge_206: 1800389091
+      Hotel_Lounge_207: -325973843
+      Hotel_Lounge_208: 449626877
+      Hotel_Lounge_209: 641797491
+      Hotel_Lounge_21: -144280488
+      Hotel_Lounge_210: 619152395
+      Hotel_Lounge_211: 1128566312
+      Hotel_Lounge_212: 648210604
+      Hotel_Lounge_213: -10144652
+      Hotel_Lounge_214: -902600739
+      Hotel_Lounge_215: 1622252569
+      Hotel_Lounge_216: 1108117698
+      Hotel_Lounge_217: 695282682
+      Hotel_Lounge_218: -1417276469
+      Hotel_Lounge_219: 335260398
+      Hotel_Lounge_22: 701652579
+      Hotel_Lounge_220: 1626072095
+      Hotel_Lounge_221: 2036100662
+      Hotel_Lounge_222: 534133198
+      Hotel_Lounge_223: -1963078744
+      Hotel_Lounge_224: 358048853
+      Hotel_Lounge_225: -508416532
+      Hotel_Lounge_226: 1266644692
+      Hotel_Lounge_227: 1318158359
+      Hotel_Lounge_228: 1753241585
+      Hotel_Lounge_229: -904276423
+      Hotel_Lounge_23: 455949975
+      Hotel_Lounge_230: 890081311
+      Hotel_Lounge_231: 1793730234
+      Hotel_Lounge_232: 701264864
+      Hotel_Lounge_233: -1833499449
+      Hotel_Lounge_234: 1007051286
+      Hotel_Lounge_235: 1929737584
+      Hotel_Lounge_236: 1175314596
+      Hotel_Lounge_24: 1433139453
+      Hotel_Lounge_25: 48961323
+      Hotel_Lounge_26: 458634860
+      Hotel_Lounge_27: 1303558509
+      Hotel_Lounge_28: 1545699985
+      Hotel_Lounge_29: 1559424956
+      Hotel_Lounge_3: -1018701407
+      Hotel_Lounge_30: 716196452
+      Hotel_Lounge_31: -496354827
+      Hotel_Lounge_32: 168259884
+      Hotel_Lounge_33: 375383872
+      Hotel_Lounge_34: -1672365063
+      Hotel_Lounge_35: -264324510
+      Hotel_Lounge_36: 1721778696
+      Hotel_Lounge_37: 963784586
+      Hotel_Lounge_38: 1144917292
+      Hotel_Lounge_39: 923730708
+      Hotel_Lounge_4: -638296328
+      Hotel_Lounge_40: 2086329302
+      Hotel_Lounge_41: -601971570
+      Hotel_Lounge_42: -951216182
+      Hotel_Lounge_43: -272899017
+      Hotel_Lounge_44: 927661593
+      Hotel_Lounge_45: -1618863415
+      Hotel_Lounge_46: 1314621493
+      Hotel_Lounge_47: 1493987899
+      Hotel_Lounge_48: 763936543
+      Hotel_Lounge_49: 983972457
+      Hotel_Lounge_5: 266301587
+      Hotel_Lounge_50: 1631694287
+      Hotel_Lounge_51: 216881024
+      Hotel_Lounge_52: 963373683
+      Hotel_Lounge_53: -306623978
+      Hotel_Lounge_54: 1872016409
+      Hotel_Lounge_55: -1071295595
+      Hotel_Lounge_56: -1230708190
+      Hotel_Lounge_57: -1614054761
+      Hotel_Lounge_58: -51768979
+      Hotel_Lounge_59: 1760113125
+      Hotel_Lounge_6: 2034965175
+      Hotel_Lounge_60: -1023101794
+      Hotel_Lounge_61: -1783991623
+      Hotel_Lounge_62: 894334913
+      Hotel_Lounge_63: 417169227
+      Hotel_Lounge_64: 359922289
+      Hotel_Lounge_65: 1286752916
+      Hotel_Lounge_66: -1414315277
+      Hotel_Lounge_67: 387296932
+      Hotel_Lounge_68: 1441813478
+      Hotel_Lounge_69: -37420422
+      Hotel_Lounge_7: 269232612
+      Hotel_Lounge_70: 596543161
+      Hotel_Lounge_71: 1887780166
+      Hotel_Lounge_72: -635594747
+      Hotel_Lounge_73: 46961480
+      Hotel_Lounge_74: -1393421039
+      Hotel_Lounge_75: 2054758164
+      Hotel_Lounge_76: -2074949321
+      Hotel_Lounge_77: -1714840816
+      Hotel_Lounge_78: 2111271619
+      Hotel_Lounge_79: 2006760847
+      Hotel_Lounge_8: 2027814706
+      Hotel_Lounge_80: -1391902577
+      Hotel_Lounge_81: -1260040681
+      Hotel_Lounge_82: -1599882167
+      Hotel_Lounge_83: -87572850
+      Hotel_Lounge_84: -807200027
+      Hotel_Lounge_85: 930923553
+      Hotel_Lounge_86: -471561669
+      Hotel_Lounge_87: 712220092
+      Hotel_Lounge_88: 1507942285
+      Hotel_Lounge_89: 1136125005
+      Hotel_Lounge_9: -1867799539
+      Hotel_Lounge_90: 1877946601
+      Hotel_Lounge_91: 998462148
+      Hotel_Lounge_92: 1580760601
+      Hotel_Lounge_93: -978500690
+      Hotel_Lounge_94: 1296035406
+      Hotel_Lounge_95: 698051560
+      Hotel_Lounge_96: 1864667729
+      Hotel_Lounge_97: 1191344597
+      Hotel_Lounge_98: 1315031219
+      Hotel_Lounge_99: 8210306
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

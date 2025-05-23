@@ -1,0 +1,2360 @@
+fileFormatVersion: 2
+guid: 461badadc4eab5f49ab8fb2bfb73482e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bonus_Couch_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 696
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -48, y: -29}
+        - {x: -48, y: 20}
+        - {x: 43, y: 20}
+        - {x: 43, y: -29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374a2707fc648af4383eb41db74436c7
+      internalID: -177486076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_10
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 672
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a858db6908eb4244a6df1545d7fa117
+      internalID: -659461761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_11
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 672
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c69375684d9a764fac32447213b9703
+      internalID: -1954950592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 672
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5b72ada0fcf3f4f91f76ee16544612
+      internalID: -1312583464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 672
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -48, y: -33}
+        - {x: -48, y: 16}
+        - {x: 42, y: 16}
+        - {x: 42, y: -33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f47df5fb4de10479d5e572ad850194
+      internalID: -1151562273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -48, y: -27}
+        - {x: -48, y: 23}
+        - {x: 43, y: 23}
+        - {x: 43, y: -27}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28f4b1507f70114299524252f95a2c5
+      internalID: -1426515798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -31}
+        - {x: -25, y: 9}
+        - {x: 30, y: 9}
+        - {x: 30, y: -31}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d0dc67acd21dd43a549a4588c5e9ee
+      internalID: -528170510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 576
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -43, y: -33}
+        - {x: -43, y: 9}
+        - {x: 48, y: 9}
+        - {x: 48, y: -33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce44f60f5c30744b86d67fc49ebb15f
+      internalID: 2041552231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_38
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d34e85c4e03c2c4c8ab3301933a0426
+      internalID: 1670566560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_39
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 576
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35991f31164747a46af0f349b5820f26
+      internalID: 1033076035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_40
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 576
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e7254a10b43274a9ba051e39c0f80a
+      internalID: 281136712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_41
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 576
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2eacd8dc3706c54e95472351d0d8178
+      internalID: -441587452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_42
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 576
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -45, y: -32}
+        - {x: -45, y: 6}
+        - {x: 44, y: 6}
+        - {x: 44, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a526a4a7eb647f8478426b2d5dd25e24
+      internalID: -489764566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_45
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 575
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -44, y: -33}
+        - {x: -44, y: 4}
+        - {x: 45, y: 4}
+        - {x: 45, y: -33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468213c6ab5574641bd8a2e9c70a7d1b
+      internalID: -2118234681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 672
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -26, y: -30}
+        - {x: -26, y: 8}
+        - {x: 29, y: 8}
+        - {x: 29, y: -30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901a45a93cb396f4591af884f7a76e80
+      internalID: 1303705040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_58
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 504
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -27, y: -27}
+        - {x: -27, y: 12}
+        - {x: 28, y: 12}
+        - {x: 28, y: -27}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bd482212c302b4daaf912e928710dd
+      internalID: -1042855773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_60
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 504
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -27, y: -25}
+        - {x: -27, y: 13}
+        - {x: 28, y: 13}
+        - {x: 28, y: -25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520214471393f924682cfe308ba47c84
+      internalID: -965925850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_64
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -47, y: -26}
+        - {x: -47, y: 22}
+        - {x: 43, y: 22}
+        - {x: 43, y: -26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24abd30121a7e70469b6c9de6df872a9
+      internalID: 1535686128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -26, y: -28}
+        - {x: -26, y: 7}
+        - {x: 29, y: 7}
+        - {x: 29, y: -28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa29121604b1dc944a5803d154bfba13
+      internalID: -2144540094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_68
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -44, y: -29}
+        - {x: -44, y: 8}
+        - {x: 47, y: 8}
+        - {x: 47, y: -29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5bd758f6ef3264f8b3525ce58626d5
+      internalID: 1971581723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 672
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -44, y: -29}
+        - {x: -44, y: 8}
+        - {x: 47, y: 8}
+        - {x: 47, y: -29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e2b753789445b47b08d691c392a8a8
+      internalID: 1659290824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_70
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4a7c43e0fd2b34783c2286c16603f1
+      internalID: -283102200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_71
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 480
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7459a007c84a08943b3a9784bc1e3cd9
+      internalID: -267260813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_72
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 480
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f05d64def11584198e2c70d6fa6bc1
+      internalID: -976186100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_73
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942ced948f971ea42991080e21546d57
+      internalID: 1676100013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 672
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d7267d746c72b4f897d429619bc291
+      internalID: 1823473092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_88
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 406
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd173197ddc3aff4ba9c166d4af74c50
+      internalID: -410346727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_91
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 397
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95ed6fa81041494fa79e619dfaef5ce
+      internalID: 1301473373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_92
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -48, y: -26}
+        - {x: -48, y: 22}
+        - {x: 41, y: 22}
+        - {x: 41, y: -27}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c4c64228254e44ebbe4ee9caa0fe0c
+      internalID: 1901757741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_94
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -26, y: -31}
+        - {x: -26, y: 8}
+        - {x: 29, y: 8}
+        - {x: 29, y: -31}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b579bd067f0e144834ed35bd12b8bb
+      internalID: 1546730733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_96
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -43, y: -30}
+        - {x: -43, y: 9}
+        - {x: 47, y: 9}
+        - {x: 47, y: -30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fa626a6cda8f344b9a04221a2070fc
+      internalID: -47399205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_98
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c601ee41fbec89478920ddc2b72bb6c
+      internalID: -1226854596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_99
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 384
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab1cc3a8b876a849a8f8461672ceba6
+      internalID: 149643756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_100
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438b3fec53126274da8d110948dbb6db
+      internalID: -870651084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_101
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9d0c00f080bb44cac29682528110d1
+      internalID: 75628162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35016da27a7106741b2d1ad06435da86
+      internalID: -1919365077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_117
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bd5c23a0b6ff84c8cd494b58a48a53
+      internalID: -740421308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_118
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7a81595ff02774cae44f2eb84ab1dd
+      internalID: -272773250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_119
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64130811e16911a47aae3d4b1d6693d3
+      internalID: 327528922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_120
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -48, y: -29}
+        - {x: -48, y: 21}
+        - {x: 42, y: 21}
+        - {x: 42, y: -29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8786e9a93862a4d8ce45736d02dcef
+      internalID: -1823163685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_122
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -27, y: -30}
+        - {x: -27, y: 8}
+        - {x: 29, y: 8}
+        - {x: 29, y: -30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d5a0501ae592641bda5d8a48463ae4
+      internalID: 756870085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_124
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -44, y: -31}
+        - {x: -44, y: 8}
+        - {x: 47, y: 8}
+        - {x: 47, y: -31}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9b8912097443d49886f03c787ab489
+      internalID: 335960076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_126
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33799f11deab5d049a95c84292c71441
+      internalID: -370931722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_127
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 288
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b53c9ed9e1cd5f459d0c789300e593f
+      internalID: -506091382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_128
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0c1da67f9b88848a60361e55584aae
+      internalID: -1138784345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_129
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 288
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d31e6c8edd279429da6d45c61d6cf3
+      internalID: 737439587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7cd4365b99daa48b1f88725903060e
+      internalID: -2051237542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_131
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad38ba3c48d7a634faac33c5d3019ee4
+      internalID: 861813184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_132
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8303f82c55e0ac542ab1a1856c8f3691
+      internalID: 221064905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_133
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f22236da114aa4b8750e9adf2fc0b9
+      internalID: -1566044379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb65554c0eaa054795bf041dbfc5853
+      internalID: 1211621856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_145
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7080d736fdf66ca4f9c0f98fb0d7fb8b
+      internalID: 1338678564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_146
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2cc0e2a5b2a764ca69d69b41fd982a
+      internalID: 249301904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_147
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3ee2ab42d44cf428a4e2831b1e7af7
+      internalID: -2000781944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_148
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -48, y: -27}
+        - {x: -48, y: 20}
+        - {x: 43, y: 20}
+        - {x: 43, y: -27}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ceec210cb8bac40b0e6586b2a2fd55
+      internalID: -1812810677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_150
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -26, y: -30}
+        - {x: -26, y: 9}
+        - {x: 29, y: 9}
+        - {x: 29, y: -30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc63f3c8b5feede4687f04f5536f1e79
+      internalID: 1630075404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_152
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -44, y: -31}
+        - {x: -44, y: 9}
+        - {x: 47, y: 9}
+        - {x: 47, y: -31}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcedd0e4a50286488e53387b0fee375
+      internalID: 1699588620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_154
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41338d98bd0b27f47ad30c0204449fbe
+      internalID: -319143516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_155
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 192
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fe9f2088ecf0941af3e39e89afd2f1
+      internalID: 1005575436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_156
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55c77d0e84c19841b7f1277d44de9ff
+      internalID: 511622437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_157
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac49c81b7a4fb340af3a06d0bf1adfc
+      internalID: -1380385917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_158
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abde1290eb5bd74892ff4abc474e0c9
+      internalID: -1593354532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_159
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecce099dfff3e142aa1422bf8369e3d
+      internalID: 2121999941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_160
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d59c298b5702348ba0c10599dced61
+      internalID: -1509572132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_161
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292353b07e8b9df4e97919e1879a8dde
+      internalID: 623174451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9309f53bc015e24428ad8f61308beaa4
+      internalID: 1843775464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_173
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda6676526d19a6439a5672987642208
+      internalID: -843452700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b22f69b29de4d14e81082c5dfd5fe06
+      internalID: -796338675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_177
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 84
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a75b80020962f4a963842a1ad91238
+      internalID: 497617482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_178
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 84
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac3f589a949a9c4cb377561a6a1f43c
+      internalID: 1923702848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_179
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 84
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a14512b33d29c47a7e3793abcf20c3
+      internalID: -1309686812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_180
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 84
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff859a7f1fb3ecb43abf19adce93343b
+      internalID: 1567609737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_181
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 84
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ec8d99ea72ea84a95187e70efa28c3
+      internalID: 859410072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_182
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 96
+        width: 168
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1bf6cdc1dbbcf4dbb99a61e4a141bf
+      internalID: 1403377660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_186
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb92ab8169630443b63194ff45c9528
+      internalID: 1076685103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_187
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4ae5180225e2e4bb4a94a9234767f6
+      internalID: -1656625500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_188
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b3696f1374ff645aea507603521512
+      internalID: 2014159845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_189
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447b63ac79bd74248bbd13b24f7d90ed
+      internalID: -1820985401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_190
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8492f36e682cbd140abe8e07ff9db9dd
+      internalID: -1799030143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_191
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb54a6a3468288848b5d63cf36051655
+      internalID: -1984832557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_192
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335d321fcfceb8e4e875fe610acf0522
+      internalID: 1968149325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_193
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa551c1fdc07024fbc901cb760a3c9a
+      internalID: 572099237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_194
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd73e006b3cee4c46bc8823983413594
+      internalID: -54618175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_195
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db460ca38af9b66429e48dfaede5e4b7
+      internalID: 2015344253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_196
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452970591319e864483034bacff77f3d
+      internalID: 1650023181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_197
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8aeff32b680a145a311930d190db60
+      internalID: -813716600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_198
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874d1cae2b0449f4d963fb21d3218ba8
+      internalID: -2136583538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_199
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37b726cb4322e4459b6829ec0672f14
+      internalID: -1561438752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_200
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc6b67b10a02ed4f9f0d7281df614b1
+      internalID: 1863243124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Couch_201
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1a187e385927b42b8ecec46bf3eba5
+      internalID: 1968937483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bonus_Couch_0: -177486076
+      Bonus_Couch_1: -1629727447
+      Bonus_Couch_10: -659461761
+      Bonus_Couch_100: -870651084
+      Bonus_Couch_101: 75628162
+      Bonus_Couch_102: -1340663728
+      Bonus_Couch_103: 457077751
+      Bonus_Couch_104: 608037259
+      Bonus_Couch_105: -842673615
+      Bonus_Couch_106: -643069313
+      Bonus_Couch_107: -1528706933
+      Bonus_Couch_108: 1871558697
+      Bonus_Couch_109: -1260962012
+      Bonus_Couch_11: -1954950592
+      Bonus_Couch_110: -1758467555
+      Bonus_Couch_111: 578462222
+      Bonus_Couch_112: -828880148
+      Bonus_Couch_113: -2078715016
+      Bonus_Couch_114: -160264103
+      Bonus_Couch_115: -1700488450
+      Bonus_Couch_116: -1919365077
+      Bonus_Couch_117: -740421308
+      Bonus_Couch_118: -272773250
+      Bonus_Couch_119: 327528922
+      Bonus_Couch_12: -1312583464
+      Bonus_Couch_120: -1823163685
+      Bonus_Couch_121: 834482387
+      Bonus_Couch_122: 756870085
+      Bonus_Couch_123: -868065276
+      Bonus_Couch_124: 335960076
+      Bonus_Couch_125: 1271869269
+      Bonus_Couch_126: -370931722
+      Bonus_Couch_127: -506091382
+      Bonus_Couch_128: -1138784345
+      Bonus_Couch_129: 737439587
+      Bonus_Couch_13: 279179202
+      Bonus_Couch_130: -2051237542
+      Bonus_Couch_131: 861813184
+      Bonus_Couch_132: 221064905
+      Bonus_Couch_133: -1566044379
+      Bonus_Couch_134: -28884173
+      Bonus_Couch_135: -1192583597
+      Bonus_Couch_136: -1938177539
+      Bonus_Couch_137: -744244595
+      Bonus_Couch_138: 215538562
+      Bonus_Couch_139: -548246374
+      Bonus_Couch_14: -405750616
+      Bonus_Couch_140: -609542754
+      Bonus_Couch_141: -320914133
+      Bonus_Couch_142: 557462884
+      Bonus_Couch_143: 1408231362
+      Bonus_Couch_144: 1211621856
+      Bonus_Couch_145: 1338678564
+      Bonus_Couch_146: 249301904
+      Bonus_Couch_147: -2000781944
+      Bonus_Couch_148: -1812810677
+      Bonus_Couch_149: 1289220932
+      Bonus_Couch_15: 323907227
+      Bonus_Couch_150: 1630075404
+      Bonus_Couch_151: 181162193
+      Bonus_Couch_152: 1699588620
+      Bonus_Couch_153: 147471390
+      Bonus_Couch_154: -319143516
+      Bonus_Couch_155: 1005575436
+      Bonus_Couch_156: 511622437
+      Bonus_Couch_157: -1380385917
+      Bonus_Couch_158: -1593354532
+      Bonus_Couch_159: 2121999941
+      Bonus_Couch_16: -558461749
+      Bonus_Couch_160: -1509572132
+      Bonus_Couch_161: 623174451
+      Bonus_Couch_162: 86805050
+      Bonus_Couch_163: 184623078
+      Bonus_Couch_164: -1373442859
+      Bonus_Couch_165: 1498182915
+      Bonus_Couch_166: -1595948147
+      Bonus_Couch_167: 815347080
+      Bonus_Couch_168: 1019859685
+      Bonus_Couch_169: -1504280237
+      Bonus_Couch_17: 667404740
+      Bonus_Couch_170: 1424183617
+      Bonus_Couch_171: 1244761387
+      Bonus_Couch_172: 1843775464
+      Bonus_Couch_173: -843452700
+      Bonus_Couch_174: 821597206
+      Bonus_Couch_175: -1790101971
+      Bonus_Couch_176: -796338675
+      Bonus_Couch_177: 497617482
+      Bonus_Couch_178: 1923702848
+      Bonus_Couch_179: -1309686812
+      Bonus_Couch_18: -133974486
+      Bonus_Couch_180: 1567609737
+      Bonus_Couch_181: 859410072
+      Bonus_Couch_182: 1403377660
+      Bonus_Couch_183: 2134049881
+      Bonus_Couch_184: 1789859453
+      Bonus_Couch_185: -1961564762
+      Bonus_Couch_186: 1076685103
+      Bonus_Couch_187: -1656625500
+      Bonus_Couch_188: 2014159845
+      Bonus_Couch_189: -1820985401
+      Bonus_Couch_19: -775960373
+      Bonus_Couch_190: -1799030143
+      Bonus_Couch_191: -1984832557
+      Bonus_Couch_192: 1968149325
+      Bonus_Couch_193: 572099237
+      Bonus_Couch_194: -54618175
+      Bonus_Couch_195: 2015344253
+      Bonus_Couch_196: 1650023181
+      Bonus_Couch_197: -813716600
+      Bonus_Couch_198: -2136583538
+      Bonus_Couch_199: -1561438752
+      Bonus_Couch_2: 2061973122
+      Bonus_Couch_20: -2052364334
+      Bonus_Couch_200: 1863243124
+      Bonus_Couch_201: 1968937483
+      Bonus_Couch_202: -1993463822
+      Bonus_Couch_203: 894758968
+      Bonus_Couch_204: 1905553515
+      Bonus_Couch_205: -845801085
+      Bonus_Couch_206: 1457334983
+      Bonus_Couch_207: -982107177
+      Bonus_Couch_208: 584406050
+      Bonus_Couch_209: -1411820340
+      Bonus_Couch_21: 1681480098
+      Bonus_Couch_210: 80475429
+      Bonus_Couch_211: 1067396937
+      Bonus_Couch_212: -1434623215
+      Bonus_Couch_213: 1817604365
+      Bonus_Couch_214: 2032210599
+      Bonus_Couch_215: 1484997986
+      Bonus_Couch_216: 1503106547
+      Bonus_Couch_217: 2089239440
+      Bonus_Couch_22: -1476016537
+      Bonus_Couch_23: 2093501264
+      Bonus_Couch_24: 1887777139
+      Bonus_Couch_25: 665538940
+      Bonus_Couch_26: -452809261
+      Bonus_Couch_27: -357564793
+      Bonus_Couch_28: 1404393341
+      Bonus_Couch_29: -114486473
+      Bonus_Couch_3: -1151562273
+      Bonus_Couch_30: -610124286
+      Bonus_Couch_31: 1879096936
+      Bonus_Couch_32: -1426515798
+      Bonus_Couch_33: -1457928013
+      Bonus_Couch_34: -528170510
+      Bonus_Couch_35: -314657691
+      Bonus_Couch_36: 2041552231
+      Bonus_Couch_37: 1223205466
+      Bonus_Couch_38: 1670566560
+      Bonus_Couch_39: 1033076035
+      Bonus_Couch_4: 363620521
+      Bonus_Couch_40: 281136712
+      Bonus_Couch_41: -441587452
+      Bonus_Couch_42: -489764566
+      Bonus_Couch_43: 1080892175
+      Bonus_Couch_44: 723707949
+      Bonus_Couch_45: -2118234681
+      Bonus_Couch_46: 1220847979
+      Bonus_Couch_47: -1545780505
+      Bonus_Couch_48: -182000918
+      Bonus_Couch_49: -1865285367
+      Bonus_Couch_5: 1303705040
+      Bonus_Couch_50: 779829017
+      Bonus_Couch_51: -1767087115
+      Bonus_Couch_52: -1835463564
+      Bonus_Couch_53: -1367257256
+      Bonus_Couch_54: -361690184
+      Bonus_Couch_55: -2095984598
+      Bonus_Couch_56: -421468874
+      Bonus_Couch_57: -434162266
+      Bonus_Couch_58: -1042855773
+      Bonus_Couch_59: -625398470
+      Bonus_Couch_6: 1305037826
+      Bonus_Couch_60: -965925850
+      Bonus_Couch_61: 1470412750
+      Bonus_Couch_62: 290766393
+      Bonus_Couch_63: 2039039800
+      Bonus_Couch_64: 1535686128
+      Bonus_Couch_65: -1363320306
+      Bonus_Couch_66: -2144540094
+      Bonus_Couch_67: -314296352
+      Bonus_Couch_68: 1971581723
+      Bonus_Couch_69: -1441933294
+      Bonus_Couch_7: 1659290824
+      Bonus_Couch_70: -283102200
+      Bonus_Couch_71: -267260813
+      Bonus_Couch_72: -976186100
+      Bonus_Couch_73: 1676100013
+      Bonus_Couch_74: 1026469164
+      Bonus_Couch_75: -202575718
+      Bonus_Couch_76: -2043429970
+      Bonus_Couch_77: -1434223233
+      Bonus_Couch_78: -1884545088
+      Bonus_Couch_79: 433168094
+      Bonus_Couch_8: 863550278
+      Bonus_Couch_80: -1674688226
+      Bonus_Couch_81: 1922180804
+      Bonus_Couch_82: -1921516785
+      Bonus_Couch_83: -1169125251
+      Bonus_Couch_84: 780931444
+      Bonus_Couch_85: -13240524
+      Bonus_Couch_86: 33390456
+      Bonus_Couch_87: -2135358116
+      Bonus_Couch_88: -410346727
+      Bonus_Couch_89: 2024819901
+      Bonus_Couch_9: 1823473092
+      Bonus_Couch_90: 102245115
+      Bonus_Couch_91: 1301473373
+      Bonus_Couch_92: 1901757741
+      Bonus_Couch_93: -1515455935
+      Bonus_Couch_94: 1546730733
+      Bonus_Couch_95: 1833053447
+      Bonus_Couch_96: -47399205
+      Bonus_Couch_97: 830588103
+      Bonus_Couch_98: -1226854596
+      Bonus_Couch_99: 149643756
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304321
+  packageName: Pixel Horror Hotel Kit
+  packageVersion: 1.0
+  assetPath: Assets/FaycrestStudios/PixelHorrorHotel/Tilesets/Bonus_Couch.png
+  uploadId: 714236

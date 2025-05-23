@@ -1,0 +1,661 @@
+fileFormatVersion: 2
+guid: 28523517f4760d04b89920f2c33ff5b6
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304321
+  packageName: Pixel Horror Hotel Kit
+  packageVersion: 1.0
+  assetPath: Assets/FaycrestStudios/PixelHorrorHotel/Tilesets/Bonus_2.png
+  uploadId: 714236
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bonus_2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca34be4379d6a104da31eda6f22d678d
+      internalID: 74010165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_2_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -41, y: -33}
+        - {x: -42, y: 11}
+        - {x: 38, y: -4}
+        - {x: 38, y: -46}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832a9fd621d5ced469b5e9643ad9a226
+      internalID: 106393703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_2_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -40, y: -29}
+        - {x: -40, y: 12}
+        - {x: 41, y: 12}
+        - {x: 41, y: -29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19a1b296469e77489d42d78a29cf896
+      internalID: -855906413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_2_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 672
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -23, y: -43}
+        - {x: -23, y: 6}
+        - {x: 26, y: 6}
+        - {x: 26, y: -43}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05533405145f6f429a06e9259dce85e
+      internalID: 1862128196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 96
+        height: 48
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc17fffb6eb31ce4f87bb460f910d230
+      internalID: 46952646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_2_28
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 624
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -27, y: -19}
+        - {x: -27, y: 19}
+        - {x: 20, y: 19}
+        - {x: 20, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68fdb4d6aa9f064690939e916e8a014
+      internalID: -100655659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_2_30
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 624
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -22, y: -17}
+        - {x: -22, y: 22}
+        - {x: 27, y: 22}
+        - {x: 27, y: -17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5200952d113aa44e996caaa4b1564b1
+      internalID: 986896307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_2_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -40, y: -21}
+        - {x: -40, y: 22}
+        - {x: 41, y: 22}
+        - {x: 41, y: -21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed1fd703771961429074842e88f4a5e
+      internalID: 469614511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_2_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -35, y: -19}
+        - {x: -35, y: 23}
+        - {x: 47, y: 23}
+        - {x: 47, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a927a8a23a0e2448f3b194fe05cac3
+      internalID: -986785159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_2_36
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09af65d83ad104546b534583b2ee0e8c
+      internalID: 1524280646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_2_46
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 528
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -12}
+        - {x: -20, y: 13}
+        - {x: 23, y: 13}
+        - {x: 23, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975da7099f18e4f4086ee5554046eab0
+      internalID: 1252918584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_2_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -38, y: -17}
+        - {x: -38, y: 27}
+        - {x: 42, y: 27}
+        - {x: 42, y: -17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd15e4e3ca7f444091956d06f9aea4e
+      internalID: 1796633224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_2_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -42, y: -18}
+        - {x: -42, y: 26}
+        - {x: 38, y: 26}
+        - {x: 38, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78199fc3656fd84fbd1b055fe6c2a5c
+      internalID: 39142936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_2_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -41, y: -17}
+        - {x: -41, y: 29}
+        - {x: 41, y: 29}
+        - {x: 41, y: -17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005c5929d7c462a43b0f2e8ddc72bfa8
+      internalID: 663163311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_2_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -39, y: -25}
+        - {x: -39, y: 19}
+        - {x: 43, y: 19}
+        - {x: 43, y: -25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018b17adbd72aaa42be3b2c1d9938a4c
+      internalID: -267467132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_2_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -40, y: -24}
+        - {x: -40, y: 18}
+        - {x: 40, y: 18}
+        - {x: 40, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7ee914db4f5064e9743226b33c7be3
+      internalID: 1287302290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_2_67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 96
+        height: 144
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -51}
+        - {x: -20, y: 37}
+        - {x: 22, y: 37}
+        - {x: 22, y: -51}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a3fc6ab87c87d4ca137d0df6035af3
+      internalID: -1364332848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bonus_2_0: -99486779
+      Bonus_2_1: -2102952521
+      Bonus_2_10: 106393703
+      Bonus_2_11: -794884084
+      Bonus_2_12: -855906413
+      Bonus_2_13: -1624449885
+      Bonus_2_14: 1862128196
+      Bonus_2_15: -564617836
+      Bonus_2_16: -127551219
+      Bonus_2_17: 1622435132
+      Bonus_2_18: -263327533
+      Bonus_2_19: 547749169
+      Bonus_2_2: 1837607594
+      Bonus_2_20: 46952646
+      Bonus_2_21: 1507943975
+      Bonus_2_22: 142843696
+      Bonus_2_23: 1486122978
+      Bonus_2_24: -1833325943
+      Bonus_2_25: -1854423072
+      Bonus_2_26: -1222200294
+      Bonus_2_27: 449619106
+      Bonus_2_28: -100655659
+      Bonus_2_29: 1469273375
+      Bonus_2_3: -1268762599
+      Bonus_2_30: 986896307
+      Bonus_2_31: -620248163
+      Bonus_2_32: 469614511
+      Bonus_2_33: 1339542723
+      Bonus_2_34: 591386341
+      Bonus_2_35: -986785159
+      Bonus_2_36: 1524280646
+      Bonus_2_37: -20564826
+      Bonus_2_38: -467854473
+      Bonus_2_39: 846462740
+      Bonus_2_4: -892523968
+      Bonus_2_40: 231138259
+      Bonus_2_41: 213899968
+      Bonus_2_42: -2071537097
+      Bonus_2_43: -484256075
+      Bonus_2_44: 1153715059
+      Bonus_2_45: 1007180770
+      Bonus_2_46: 1252918584
+      Bonus_2_47: 1740771505
+      Bonus_2_48: 1796633224
+      Bonus_2_49: 1843145549
+      Bonus_2_5: -356424053
+      Bonus_2_50: 39142936
+      Bonus_2_51: 169793675
+      Bonus_2_52: 663163311
+      Bonus_2_53: 2107423514
+      Bonus_2_54: -1162837252
+      Bonus_2_55: 291972604
+      Bonus_2_56: -1394953648
+      Bonus_2_57: -663273011
+      Bonus_2_58: 1194506456
+      Bonus_2_59: -740404363
+      Bonus_2_6: 1297371473
+      Bonus_2_60: 2060573478
+      Bonus_2_61: -267467132
+      Bonus_2_62: 202945123
+      Bonus_2_63: 1287302290
+      Bonus_2_64: -581713625
+      Bonus_2_65: -1865561396
+      Bonus_2_66: -586104819
+      Bonus_2_67: -1364332848
+      Bonus_2_7: -1549472571
+      Bonus_2_8: 74010165
+      Bonus_2_9: 561146653
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

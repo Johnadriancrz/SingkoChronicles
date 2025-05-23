@@ -1,0 +1,860 @@
+fileFormatVersion: 2
+guid: b5fe89fd259ae4749bedd9e549addce7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hotel_Bonus_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759bc4d49070a8945a9eee1dcc8ef291
+      internalID: -462383073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Bonus_1
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 528
+        width: 96
+        height: 144
+      alignment: 9
+      pivot: {x: 0.25, y: 0.1666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b629213ec66e1ba44ad1b532cdab19f9
+      internalID: -1082532101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Bonus_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1277e87a0c88fb441b1404846a662b6d
+      internalID: -167529346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Bonus_4
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 327
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f20e85589355f24e97638b0a04e58b7
+      internalID: 1489283315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Bonus_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 289
+        width: 48
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f27b9b598329840b461a6b5a40e33e
+      internalID: -1244277615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Bonus_6
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 289
+        width: 48
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b5c8431ca9b014e9c924bd6e5cf889
+      internalID: 1835675893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Bonus_7
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 287
+        width: 96
+        height: 154
+      alignment: 9
+      pivot: {x: 0.25, y: 0.166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2483af8507b834ca8e0114162008af
+      internalID: 1327635771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Bonus_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80823a64732a353418bdb4a186febc63
+      internalID: 1173104834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Bonus_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 193
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -43}
+        - {x: -24, y: -48}
+        - {x: -16, y: -48}
+        - {x: 24, y: -27}
+        - {x: 24, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e3f692d449f6e42bfa41ef936a32b4
+      internalID: 1900510273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Bonus_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 193
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -18}
+        - {x: -24, y: -27}
+        - {x: 24, y: -27}
+        - {x: 24, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4ccba2c18f2274e9e321204c4e007a
+      internalID: 723300986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Bonus_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 193
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -18}
+        - {x: -24, y: -27}
+        - {x: 16, y: -48}
+        - {x: 24, y: -48}
+        - {x: 24, y: -44}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a3ac61c9ccf3a448017da86d4afd74
+      internalID: -1977033683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Bonus_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdf73b0ace2286428d2eaa00b1d1152
+      internalID: -903358197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Bonus_14
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 52
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0537185ab2325eb4a846d03e20c1e7d1
+      internalID: -1141046541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Bonus_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949bc3a7a1b48704bb12923b95f4e00e
+      internalID: -445634783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Bonus_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac05349fe20529045aaf545929f6b4a2
+      internalID: 419594519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Bonus_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03c27187f4a99049b014851bc998425
+      internalID: -812769053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Bonus_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cec9202ed186243bee89c168d8a80c
+      internalID: 1017126923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Bonus_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0afd69651cc7742a0afeae06e7dbde
+      internalID: -1036151082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Bonus_19
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 528
+        width: 96
+        height: 144
+      alignment: 9
+      pivot: {x: 0.25, y: 0.16666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11607ff22cff0484784d1376bd8913e3
+      internalID: 875792607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Bonus_20
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 287
+        width: 48
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1db721d9c0c88d478bcb6897b37d51b
+      internalID: -752825156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Bonus_21
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 287
+        width: 48
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2085411b4769b4988baeaca996a03a
+      internalID: 196932021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Bonus_22
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 287
+        width: 48
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584d7ec0e3afbfb458e27188f80a8217
+      internalID: -1679306639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Bonus_23
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 287
+        width: 48
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f13ec9ac0ac784c96eaef314f85ec8
+      internalID: 868638153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Bonus_12
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 98
+        width: 96
+        height: 154
+      alignment: 9
+      pivot: {x: 0.25, y: 0.16666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe5e9396a0024f44be75a3bb5ae892a
+      internalID: -834340058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Bonus_24
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 98
+        width: 48
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a4146eab357054fb0a791b1cff11e8
+      internalID: 1665067555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Bonus_25
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 98
+        width: 96
+        height: 154
+      alignment: 9
+      pivot: {x: 0.25, y: 0.16666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cacfda19ac5b8479ad11659cf2cb1d
+      internalID: -1840903815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Bonus_26
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 98
+        width: 96
+        height: 154
+      alignment: 9
+      pivot: {x: 0.25, y: 0.16666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a68c2613680204a84e32a6c3b83465
+      internalID: -591239068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Bonus_27
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 98
+        width: 47
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737997b5deedf1a408079fee8182844a
+      internalID: -256633842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Bonus_28
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 287
+        width: 48
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7c9e748eea59645ae064406a31882b
+      internalID: -951314788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Bonus_29
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 287
+        width: 46
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf15e84e69a34248b6908814ce872a9
+      internalID: -615145916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Bonus_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 214
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -48}
+        - {x: 24, y: -48}
+        - {x: 24, y: -39}
+        - {x: -24, y: -39}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0639473dc191bfe47a05e700f536cc18
+      internalID: -1134516560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Hotel_Bonus_0: -462383073
+      Hotel_Bonus_1: -1082532101
+      Hotel_Bonus_10: 723300986
+      Hotel_Bonus_11: -1977033683
+      Hotel_Bonus_12: -834340058
+      Hotel_Bonus_13: -903358197
+      Hotel_Bonus_14: -1141046541
+      Hotel_Bonus_15: 419594519
+      Hotel_Bonus_16: -812769053
+      Hotel_Bonus_17: 1017126923
+      Hotel_Bonus_18: -1036151082
+      Hotel_Bonus_19: 875792607
+      Hotel_Bonus_2: -167529346
+      Hotel_Bonus_20: -752825156
+      Hotel_Bonus_21: 196932021
+      Hotel_Bonus_22: -1679306639
+      Hotel_Bonus_23: 868638153
+      Hotel_Bonus_24: 1665067555
+      Hotel_Bonus_25: -1840903815
+      Hotel_Bonus_26: -591239068
+      Hotel_Bonus_27: -256633842
+      Hotel_Bonus_28: -951314788
+      Hotel_Bonus_29: -615145916
+      Hotel_Bonus_3: -445634783
+      Hotel_Bonus_30: -1134516560
+      Hotel_Bonus_4: 1489283315
+      Hotel_Bonus_5: -1244277615
+      Hotel_Bonus_6: 1835675893
+      Hotel_Bonus_7: 1327635771
+      Hotel_Bonus_8: 1173104834
+      Hotel_Bonus_9: 1900510273
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304321
+  packageName: Pixel Horror Hotel Kit
+  packageVersion: 1.0
+  assetPath: Assets/FaycrestStudios/PixelHorrorHotel/Tilesets/Hotel_Bonus.png
+  uploadId: 714236
