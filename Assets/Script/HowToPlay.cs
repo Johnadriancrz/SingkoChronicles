@@ -7,11 +7,12 @@ public class HowToPlay : MonoBehaviour
 
     public void GoToPlay()
     {
-        SceneManager.LoadScene(sceneToLoad);
+        //SceneManager.LoadScene(sceneToLoad);
+        //SceneManager.LoadScene(PlayerPositionData.returnSceneName);
     }
     public void GoBack()
     { 
-        //SceneManager.LoadScene(sceneToLoad);
-        SceneManager.LoadScene(PlayerPositionData.returnSceneName);
+        SceneManager.LoadScene(sceneToLoad);
+      
     }
 }

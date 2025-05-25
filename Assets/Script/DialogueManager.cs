@@ -63,6 +63,7 @@ public class DialogueManager : MonoBehaviour
             ResumeGame(); // Resume game when dialogue ends
             dialogueBox.SetActive(false);
             clickPrompt.gameObject.SetActive(false); // Hide prompt when dialogue ends
+
         }
     }
 

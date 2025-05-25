@@ -59,6 +59,7 @@ public class Board : MonoBehaviour
         LoadData();
         SetRandomWord(); // Ensuring word is set at game start
 
+        word = NpcDialogueManager.stringToTransfer;
 
         //Alert Button Close
         if (alertLettersOkButton != null)

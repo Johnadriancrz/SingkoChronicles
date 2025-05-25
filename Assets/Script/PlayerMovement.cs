@@ -8,6 +8,21 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D rb;
     private Animator animator;
 
+    void Start()
+    {
+        // tinatawag tuwing magsisimula ang scene o pag-spawn ng player using spwanID
+        string spawnID = PlayerPositionData.nextSpawnPointID;
+        var spawnPoints = FindObjectsByType<SpawnPoint>(FindObjectsSortMode.None);
+        foreach (var sp in spawnPoints)
+        {
+            if (sp.spawnID == spawnID)
+            {
+                transform.position = sp.transform.position;
+                break;
+            }
+        }
+    }
+
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
